@@ -1,0 +1,10 @@
+Attrition %        = (Left / Average Headcount) * 100
+Shrinkage %        = (Non-Productive Time / Total Time) * 100
+Occupancy %        = (Handling Time / Effective Working Time) * 100
+Utilization %      = (Productive Time / Total Time) * 100
+AHT                = (TT + HT + ACW) / Calls
+SLA %              = (Calls ≤ Threshold / Total Calls) * 100
+FTE                = (Calls * AHT / 3600) / 8
+Schedule Adherence = (Actual / Scheduled) * 100
+Absenteeism %      = (Absent / Scheduled) * 100
+Productivity       = (Output / Input) * 100
